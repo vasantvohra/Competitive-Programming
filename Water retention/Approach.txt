@@ -1,0 +1,31 @@
+I have used min Heap to solve this problem,
+Priority queues & BFS , Depth first search (to find the lowest) could also be used but they would lead to more time consumption.
+All the necessary working has been mentioned for easy understanding of function
+
+Approach:
+
+-Initially the heap contains all cells on the perimeter of the map.
+
+-The first cell popped is the lowest point on the outer wall.
+
+-Checking the 4 neighbours, ignoring any already explored (in the heap or have already been popped off the heap) or outside the map.
+
+-If a newly discovered neighbour is lower than the current cell then water can be added on top of it.
+
+-We know the water cannot flow out anywhere because the current cell is the lowest.
+
+-Add the water to this neighbouring cell (zero if neighbour is higher than cell) and push neighbour  with its new height onto the heap.
+
+-We are effectively continually raising the water level, filling in any "holes" as we go.
+
+Time complexity:
+Every cell is pushed and popped from the heap, which is O(mn log(mn))
+
+References:
+https://leetcode.com/problems/trapping-rain-water/solution/
+https://www.spoj.com/problems/WATER/
+Geeks for geeks Rain water trapping
+
+
+
+

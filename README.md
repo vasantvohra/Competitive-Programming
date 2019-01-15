@@ -11,13 +11,13 @@ it will execute the "waterplatform.py" output against the testcases given as tex
 You may run by making your own test case file file as format in one of the test case
 or you can directly run  "waterplatform.py".
 
-The approach used in solving this problem is given "approach.txt"
+The approach used in solving this problem is given "approach.txt".
 
 <h1>Min-Heap</h1>
 
 I have used min Heap to solve this problem,
 Priority queues & BFS , Depth first search (to find the lowest) could also be used but they would lead to more time consumption.
-All the necessary working has been mentioned for easy understanding of function
+All the necessary working has been mentioned for easy understanding of function.
 <h1>
 Approach</h1>
 

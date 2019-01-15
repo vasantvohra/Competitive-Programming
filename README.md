@@ -1,15 +1,15 @@
 # Competitve Programming
 # Water retension -first Solution updated on github
 <p align="center">
-    <img src="https://github.com/vasantvohra/data-analytics/tree/master/water%20retention/problem%20statement.png?raw=true" alt="Questions"/>
+    <img src="https://github.com/vasantvohra/Competitive-Programming/blob/master/Water%20retention/problem%20statement.png?raw=true" alt="Questions"/>
 </p>
 <h1>How to execute </h1>
 
-You can simply run "test cases.py" ,
-it will execute the "waterplatform.py" output against the testcases given as text file "test0.txt"
+You can simply run "test cases.py" .,
+it will execute the "waterplatform.py" output against the testcases given as text file "test0.txt".
 
-You can run by making your own test case file file as format in one of the test case
-or you can directly run  "waterplatform.py"
+You may run by making your own test case file file as format in one of the test case
+or you can directly run  "waterplatform.py".
 
 The approach used in solving this problem is given "approach.txt"
 
@@ -39,9 +39,9 @@ Approach</h1>
 <li>Every cell is pushed and popped from the heap, which is O(mn log(mn))
 
 <h1>References</h1>
-[1] https://leetcode.com/problems/trapping-rain-water/solution/
-[2] https://www.spoj.com/problems/WATER/
-[3] Geeks for geeks Rain water trapping
+[1] <a href=https://leetcode.com/problems/trapping-rain-water/solution/> Leet Code </a> <br>
+[2] <a href=https://www.spoj.com/problems/WATER/> SPOJ </a> <br>
+[3] <b>Geeks for geeks:</b><i> Rain water trapping </i><br>
 
 
 

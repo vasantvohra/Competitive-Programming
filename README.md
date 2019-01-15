@@ -1,5 +1,5 @@
 # Competitve Programming
-# Water retension -first Solution updated on github
+# Water retention -first Solution updated on github
 <p align="center">
     <img src="https://github.com/vasantvohra/Competitive-Programming/blob/master/Water%20retention/problem%20statement.png?raw=true" alt="Questions"/>
 </p>
